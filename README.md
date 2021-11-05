@@ -17,3 +17,5 @@ git push -u origin main
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
 我用vscode 进行了编辑
+
+这是测试GitUi的作用的
